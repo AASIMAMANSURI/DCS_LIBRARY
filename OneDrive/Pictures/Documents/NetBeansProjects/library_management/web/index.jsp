@@ -3,7 +3,7 @@
 <%@ page import="java.sql.*"%>
 <%@ page import="java.util.*"%>
 <%@ page import="project.connection"%>
-<%-- aasima-->
+<%-- aasima--%>
 <%@page import="jakarta.servlet.http.HttpSession"%>
 <%
 
